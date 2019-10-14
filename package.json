@@ -1,8 +1,8 @@
 {
   "name": "@blast-engine/interactive-scripts",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "main": "lib/index.js",
-  "bin": { 
+  "bin": {
     "iscripts": "bin/start.js",
     "s": "bin/start.js"
   },
